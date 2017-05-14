@@ -1,0 +1,17 @@
+{
+  "name": "js_homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "food.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.3.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
